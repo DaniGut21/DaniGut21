@@ -5,7 +5,7 @@
 🚀 Objetivo: combinar teoría universitaria con proyectos reales para aprender y aportar.
 
 ## 📌 Proyectos Destacados
-- **[Estructura de datos](URL)** – Repositorio de actividades de clase asi como proyectos o tareas.
+- **[Estructura de datos](https://github.com/DaniGut21/Unimunuto/tree/48393a893b4db9fea231f980a0da38d289fa00b8/Estructura_datos)** – Repositorio de actividades de clase asi como proyectos o tareas.
 
 ## 🛠 Tecnologías que uso
 - **Lenguajes:** Python, Java.
