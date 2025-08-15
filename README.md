@@ -6,8 +6,6 @@
 
 ## 📌 Proyectos Destacados
 - **[Estructura de datos](URL)** – Repositorio de actividades de clase asi como proyectos o tareas.
-- **[NombreProyecto2](URL)** – Breve descripción.
-- **[NombreProyecto3](URL)** – Breve descripción.
 
 ## 🛠 Tecnologías que uso
 - **Lenguajes:** Python, Java.
