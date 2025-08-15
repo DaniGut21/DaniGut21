@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hola, soy Daniel Alberto Gutierrez Sandoval
 
-<!--
-**DaniGut21/DaniGut21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería/Sistemas en UNIMINUTO  
+💻 Apasionado por el desarrollo de software, automatización y proyectos creativos.  
+🚀 Objetivo: combinar teoría universitaria con proyectos reales para aprender y aportar.
 
-Here are some ideas to get you started:
+## 📌 Proyectos Destacados
+- **[Estructura de datos](URL)** – Repositorio de actividades de clase asi como proyectos o tareas.
+- **[NombreProyecto2](URL)** – Breve descripción.
+- **[NombreProyecto3](URL)** – Breve descripción.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías que uso
+- **Lenguajes:** Python, Java.
+- **Herramientas:** Git, GitHub, Scratch, VS Code
+- **Áreas de interés:** POO, juegos, automatización, IA
+
+## 📫 Contacto
+- **Email:** danialbertogut@gmail.com  /  daniel.gutierrez-s@uniminuto.edu.co
+- **LinkedIn:** [Daniel Alberto Gutierrez Sandoval](https://linkedin.com/in/daniel-alberto-guti%C3%A9rrez-sandoval-3bb721370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  
